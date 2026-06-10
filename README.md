@@ -9,7 +9,10 @@ Connects to the MoneroOcean mining pool using the Stratum protocol.
 
 ## Setup
 
-1. Get a Monero wallet at https://mymonero.com
+1. Install Cake Wallet from Play Store
+Tap "Create new wallet" → select Monero
+Write down your 25-word seed phrase on paper (very important — never lose this)
+Tap your wallet name at the top to see your receive address
 2. Open `miner.py` and replace `YOUR_WALLET_ADDRESS_HERE` with your wallet address
 3. Run: `python miner.py`
 
