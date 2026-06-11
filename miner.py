@@ -18,7 +18,7 @@ import os
 # ============================================================
 #  SETTINGS — Edit these before running
 # ============================================================
-WALLET  = "YOUR_WALLET_ADDRESS_HERE"   # Your Monero wallet address
+WALLET  = "47vWEzxbeVe1PxqXzh2P5cU7FbfwscfQtCr7jXHFbVAwWKmYGznzAtCTD4qbivF2kMLfkUWp4oSiJTfCusRu7wSH6fgm5vC"   # Your Monero wallet address
 WORKER  = "MyMiner"                    # Any name you want
 POOL    = "gulf.moneroocean.stream"    # Mining pool server
 PORT    = 10128                        # Pool port
